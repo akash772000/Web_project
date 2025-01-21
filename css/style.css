@@ -1976,6 +1976,7 @@ text-transform: uppercase;
 
 
 }
+/* Responsive 991 scale */
 
 @media screen and (max-width: 991px){
     .banner{
